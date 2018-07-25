@@ -5,7 +5,7 @@
  */
 
  .jumbotron {
-  background: url('../img/onecleverdude-masthead.png') no-repeat center center;
+  background: url('../img/onecleverdude-masthead.png') no-repeat left center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
